@@ -1,5 +1,6 @@
-## Hi there! 👋 Welcome to the F3 Blue Ridge (F3BR) Github Repo 
+# Hi there! 👋 
 
+## Welcome to the F3 Blue Ridge (F3BR) Github Repo 
 If you've found your way here, its more likely than not you are looking to accomplish something related to the region's resources. In order to begin you must first be granted access to a repository. This is to safeguard the code and make sure we keep things organized and tidy. 
 
 ## Invitations & Access 🔐
